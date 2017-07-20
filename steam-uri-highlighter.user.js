@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GMail Steam URL highliter
+// @name         GMail Steam URL highlighter
 // @namespace    http://tampermonkey.net/
 // @require  https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js
 // @require https://greasyfork.org/scripts/5392-waitforkeyelements/code/WaitForKeyElements.js?version=115012
