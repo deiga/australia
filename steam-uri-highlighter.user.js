@@ -18,8 +18,7 @@
         if (elem) {
             var elemHtml = elem.innerHTML;
             if (elemHtml.indexOf('href="steam://') === -1) {
-                elem.innerHTML = elemHtml.replace(/steam:\/\/.*$/m,'<a href="$&">$&</a>');
-                elem.innerHTML = elem.innerHTML.replace('<wbr>','');
+                elem.innerHTML = elemHtml.replace(/steam:\/\/.*$/m,'<a href="$&">$&</a>').replace('<wbr>','');
             }
         }
     };
