@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @require  https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.slim.min.js
 // @require https://greasyfork.org/scripts/5392-waitforkeyelements/code/WaitForKeyElements.js?version=115012
-// @version      1.0
+// @version      1.0.1
 // @description  Replace Steam URI's in GMail with actual links
 // @author       deiga
 // @match        https://mail.google.com/*
